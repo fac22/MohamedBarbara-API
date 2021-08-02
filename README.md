@@ -15,32 +15,32 @@ API Project -->
 
 **As a user, I want to:**
 
-[ ] See an interesting mashup of different data
-[ ] Input information to change the displayed result
-[ ] View the app on all of my devices
+- [ ] See an interesting mashup of different data
+- [ ] Input information to change the displayed result
+- [ ] View the app on all of my devices
 
 ### Stretch stories
 
-[ ] As an impatient user, I want to see some indication that data is loading
-[ ] As a confused user, I want to be told when something goes wrong
+- [ ] As an impatient user, I want to see some indication that data is loading
+- [ ] As a confused user, I want to be told when something goes wrong
 
 ### Acceptance Criteria
 
-[ ] Query at least two APIs using `fetch`
-[ ] Dynamic content generated with JS
-[x] A clearly defined user journey, documented in your readme
-[ ] A responsive, mobile-first design
-[ ] Ensure your app is accessible to as many different users as possible
+- [ ] Query at least two APIs using `fetch`
+- [ ] Dynamic content generated with JS
+- [x] A clearly defined user journey, documented in your readme
+- [ ] A responsive, mobile-first design
+- [ ] Ensure your app is accessible to as many different users as possible
 
 ## Planning
 
 During the planning phase we suggest you spend time on:
 
-[ ] Exploring APIs you are interested in working with
-[ ] Considering your user journey
-[ ] Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
-[ ] Estimate each user story with your partner and delegate the user stories between you
-[ ] Set up the repository for your project and initialise your file structure
+- [ ] Exploring APIs you are interested in working with
+- [ ] Considering your user journey
+- [ ] Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
+- [ ] Estimate each user story with your partner and delegate the user stories between you
+- [ ] Set up the repository for your project and initialise your file structure
 
 **Note: This week you are not expected to make any API calls.**
 
