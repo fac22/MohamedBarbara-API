@@ -43,7 +43,7 @@ body {
 	flex-direction: column;
 }
 
-.img-placeholder {
+.img-placeholder > * {
 	width: 200px;
 	height: 200px;
 	border-radius: 0.25em;
