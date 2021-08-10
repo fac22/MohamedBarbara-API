@@ -43,9 +43,9 @@ body {
 	flex-direction: column;
 }
 
-.img-placeholder > * {
-	width: 200px;
-	height: 200px;
+.img-placeholder {
+	min-width: 200px;
+	max-height: 200px;
 	border-radius: 0.25em;
 }
 

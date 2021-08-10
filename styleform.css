@@ -1,0 +1,45 @@
+#img-wish {
+  color: black;
+  padding: 16px 20px;
+  border: solid 1px;
+  cursor: pointer;
+  width: 100%;
+  margin: 10px 0px;
+  border-radius: 0.25em;
+}
+
+/* Set a style for the submit/login button */
+#img-search {
+  background-color: #04aa6d;
+  color: white;
+  padding: 16px 20px;
+  border: solid 1px;
+  cursor: pointer;
+  width: 100%;
+  margin: 10px 0px;
+  border-radius: 0.25em;
+
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+#img-generate {
+  background-color: red;
+
+  color: white;
+  padding: 16px 20px;
+  border: solid 1px;
+  cursor: pointer;
+  width: 100%;
+  margin: 10px 0px;
+  border-radius: 0.25em;
+
+  opacity: 0.8;
+}
+
+/* Add some hover effects to buttons */
+#img-search:hover,
+#img-generate:hover {
+  opacity: 1;
+  transition: all 2s ease;
+}

@@ -2,7 +2,7 @@ const imgPlholder = document.querySelector('#img-placeholder');
 const imgFrame = document.querySelector('#img-frame');
 const imgButtonGenerate = document.querySelector('#img-generate');
 const imgButtonSearch = document.querySelector('#img-search');
-const imgWish = document.querySelector('#img-wish').value;
+const imgWish = document.querySelector('#img-wish');
 
 console.log(imgWish);
 
@@ -25,7 +25,7 @@ imgButtonGenerate.addEventListener('click', () => {
 
 imgButtonSearch.addEventListener('click', () => {
 	console.log(imgWish);
-	const wishValue = imgWish;
+	const wishValue = imgWish.value;
 	fetch(`https://source.unsplash.com/weekly?${wishValue}`)
 		.then(response => {
 			if (!response.ok) throw new Error(response.status);
