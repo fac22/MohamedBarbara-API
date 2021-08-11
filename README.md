@@ -53,7 +53,7 @@ A user can create their own image gallery. They can search for a specific type o
 During the planning phase we suggest you spend time on:
 
 - [x] Exploring APIs you are interested in working with
-- [ ] Considering your user journey
+- [x] Considering your user journey
 - [x] Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
 - [ ] Estimate each user story with your partner and delegate the user stories between you
 - [x] Set up the repository for your project and initialise your file structure

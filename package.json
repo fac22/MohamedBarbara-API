@@ -1,0 +1,25 @@
+{
+  "name": "mohamedbarbara-api",
+  "version": "1.0.0",
+  "description": "eslint",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fac22/MohamedBarbara-API.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Barbara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fac22/MohamedBarbara-API/issues"
+  },
+  "homepage": "https://github.com/fac22/MohamedBarbara-API#readme",
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}
