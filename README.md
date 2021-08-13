@@ -1,11 +1,10 @@
-# Gallery Maker
+# Image Generator
 
-## MohamedBarbara-API
+## Partner Sprint of Mohamed and Barbara
 
 ![https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
-Hosted on <https://fac22.github.io/MohamedBarbara-API/>
-API Project
+- This API Project is hosted on <https://fac22.github.io/MohamedBarbara-API/>
 
 - Tasks: <https://learn.foundersandcoders.com/course/syllabus/pre-app-8/project/>
 
@@ -15,7 +14,13 @@ API Project
 
 ### User Journey
 
-A user can create their own image gallery. They can search for a specific type of image or generate a random one to add to the gallery.
+#### MVP
+
+A user can generate an image from _Unsplash_. They can either **search keywords** for a specific image content or they can let the app **generate a random** image. A repeated request replaces the current image in the image frame
+
+#### Future version
+
+A repeated request adds another image, so that the user can create their own **picture gallery** with their preferred mix of random and requested image content.
 
 ### Core Stories
 
@@ -44,7 +49,7 @@ A user can create their own image gallery. They can search for a specific type o
 - [x] Dynamic content generated with JS
 - [x] A clearly defined user journey, documented in your readme
 - [x] A responsive, mobile-first design
-- [ ] Ensure your app is accessible to as many different users as possible
+- [x] Ensure your app is accessible to as many different users as possible
 
 **This week we focus on setting up our repository** and next week we will focus on populating the page with data.
 
@@ -55,7 +60,6 @@ During the planning phase we suggest you spend time on:
 - [x] Exploring APIs you are interested in working with
 - [x] Considering your user journey
 - [x] Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
-- [ ] Estimate each user story with your partner and delegate the user stories between you
 - [x] Set up the repository for your project and initialise your file structure
 
 **Note: This week you are not expected to make any API calls.**
